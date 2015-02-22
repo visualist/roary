@@ -1,0 +1,15 @@
+
+Ruby on Active Record (and Yaml)
+ .. also bunder
+
+This template project provides a way to use Active Record models
+and database persistence without the full blown Rails framework.
+
+Get started:
+
+ * Use RVM (recommended: .ruby-version provided, or use your own)
+ * gem install bundler
+ * bundle install
+ * write your code
+ * this is a template: you might start afresh with your own .git repo
+
