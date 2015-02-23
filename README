@@ -4,12 +4,15 @@ Ruby on Active Record (and Yaml)
 
 This template project provides a way to use Active Record models
 and database persistence without the full blown Rails framework.
+This project was borne from having manually setup this structure
+several times before.
 
-Get started:
+Getting started:
 
  * Use RVM (recommended: .ruby-version provided, or use your own)
  * gem install bundler
  * bundle install
- * write your code
+ * rake db:migrate -> to create example database with "items"
+ * write your code, create more migrations (by hand, no automation yet)
  * this is a template: you might start afresh with your own .git repo
 
